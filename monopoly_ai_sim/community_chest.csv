@@ -1,0 +1,15 @@
+0,set_spot,Advance to Go - Collect $200,1,0,0
+1,cash_change,Bank error in your favor - Collect $200,0,200,0
+2,cash_change,Doctor's fee - Pay $50,0,-50,0
+3,cash_change,From sale of stock you get $45,0,45,0
+4,out_of_jail,Get Out of Jail Free! Keep this card until needed or sold,0,0,0
+5,set_spot,Go directly to jail - Do not pass Go - Do not collect $200,0,30,0
+6,cash_change,Grand Opera Opening - Collect $50 from every player,1,50,0
+7,cash_change,Xmas Fund matures - Collect $100,0,100,0
+8,cash_change,Income tax refund - Collect $20,0,20,0
+9,cash_change,Life insurance matures - Collect $100,0,100,0
+10,cash_change,Pay hospital fees of $100,0,-100,0
+11,cash_change,Pay school fees of $150,0,-150,0
+12,house_tax,You are assessed for street repairs - $40 per house - $115 per hotel,40,115,0
+13,cash_change,You have won second prize in a beauty contest - Collect $10,0,10,0
+14,cash_change,You inherit $100,0,100,0
